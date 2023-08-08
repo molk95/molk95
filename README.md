@@ -4,10 +4,8 @@
   <br>
   <samp>
     Hello, I'm Molk! 👋
-    Full Stack Developer Intern at Wecraft<br>
-    :school: Senior at Higher Institute of Computer Science of Kef<br>
+    Full Stack Developer<br>
     :sparkles: Favorite Tech: React, MongoDB, Express, NodeJS, TypeScript ... <br>
-    :notebook: I’m currently learning CS <br>
     :email:	molk.saouabi@gmail.com <br>
     :art: Portfolio: https://molksaouabi.netlify.app/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/molk-saouabi/ <br>
