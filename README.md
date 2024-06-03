@@ -6,8 +6,6 @@
     Hello, I'm Molk! 👋
     Full Stack Developer<br>
     :sparkles: Favorite Tech: React, MongoDB, Express, NodeJS, TypeScript ... <br>
-    :email:	molk.saouabi@gmail.com <br>
-    :art: Portfolio: https://molksaouabi.netlify.app/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/molk-saouabi/ <br>
   </samp>
 </p>
