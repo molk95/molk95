@@ -1,14 +1,17 @@
 <!-- ### Hi there 👋 -->
-<p align="center">
-  <img src="https://media.tenor.com/Q5xwRQjMg8EAAAAi/%E5%93%88%E5%9B%89-hello.gif" width="200px">
-  <br>
-  <samp>
-    Hello, I'm Molk! 👋
-    Full Stack Developer<br>
-    :sparkles: Favorite Tech: React, MongoDB, Express, NodeJS, TypeScript ... <br>
-    :briefcase: LinkedIn: https://www.linkedin.com/in/molk-saouabi/ <br>
-  </samp>
-</p>
+# Hello, I'm Molk! 👋  
+
+🚀 **Full-Stack Developer | Tech Community Organizer**  
+
+✨ **Favorite Tech:** Angular, Odoo, PostgreSQL, TypeScript, Python, NgRx, Docker...  
+
+🎤 **Tech Community Involvement:**  
+- **GDG Beja Organizer** & **Women Techmakers Ambassador**  
+- Passionate about fostering inclusive tech communities and empowering women in tech  
+
+📫 **Contact Me:**  
+- 📧 Email: [molk.saouabi@gmail.com](mailto:molk.saouabi@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/molk-saouabi](https://www.linkedin.com/in/molk-saouabi/)  
 
 <!--
 **molk95/molk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
