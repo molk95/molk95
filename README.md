@@ -6,7 +6,7 @@
 ✨ **Favorite Tech:** Angular, React, TypeScript, Python
 
 🎤 **Tech Community Involvement:**  
-- **GDG Beja Organizer** & **Women Techmakers Ambassador**  
+- **GDG Organizer** & **Women Techmakers Ambassador**  
 - Passionate about fostering inclusive tech communities and empowering women in tech  
 
 📫 **Contact Me:**  
