@@ -3,7 +3,7 @@
 
 🚀 **Full-Stack Developer | Tech Community Organizer**  
 
-✨ **Favorite Tech:** Angular, Odoo, PostgreSQL, TypeScript, Python, NgRx, Docker...  
+✨ **Favorite Tech:** Angular, Odoo, PostgreSQL, TypeScript, Python
 
 🎤 **Tech Community Involvement:**  
 - **GDG Beja Organizer** & **Women Techmakers Ambassador**  
