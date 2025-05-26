@@ -3,7 +3,7 @@
 
 🚀 **Full-Stack Developer | Tech Community Organizer**  
 
-✨ **Favorite Tech:** Angular, React, TypeScript, Python
+✨ **Favorite Tech:** Python, React, TypeScript
 
 🎤 **Tech Community Involvement:**  
 - **GDG Organizer** & **Women Techmakers Ambassador**  
